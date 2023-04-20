@@ -1,4 +1,4 @@
-# Data Transfer Tool
+# ProdToDev: A Data Transfer Tool
 A command-line tool for transferring table data from a production SQL Server database to a development SQL Server database, ensuring that only non-duplicate rows are inserted into the development database.
 
 # Requirements
