@@ -14,15 +14,24 @@ You can install the required libraries using pip:
 2. Create a .env file in the project directory and provide the necessary database connection information for both production and development databases:
 
 PROD_DRIVER={SQL Server driver}
+
 PROD_HOST={Production database host}
+
 PROD_USER={Production database username}
+
 PROD_PASSWORD={Production database password}
+
 PROD_DATABASE={Production database name}
 
+
 DEV_DRIVER={SQL Server driver}
+
 DEV_HOST={Development database host}
+
 DEV_USER={Development database username}
+
 DEV_PASSWORD={Development database password}
+
 DEV_DATABASE={Development database name}
 
 Replace the placeholders with your actual database connection details.
